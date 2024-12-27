@@ -1,0 +1,38 @@
+{
+  "informasi_dasar": {
+    "format_internasional": "+62 898-8610-455",
+    "format_nasional": "0898-8610-455",
+    "format_e164": "+628988610455",
+    "kode_negara": "+62",
+    "nomor_nasional": 8988610455,
+    "tipe": "1"
+  },
+  "lokasi": {
+    "country": "Indonesia",
+    "region": "Indonesia",
+    "coordinates": {
+      "latitude": -2.4833826,
+      "longitude": 117.8902853
+    }
+  },
+  "operator": {
+    "provider": "Indosat Ooredoo Hutchison",
+    "tipe_jaringan": "1"
+  },
+  "zona_waktu": {
+    "zona_waktu": "Asia/Jakarta",
+    "waktu_lokal": "2024-12-27 10:13:52"
+  },
+  "reputasi": {
+    "spam_score": 0,
+    "reports_count": 0,
+    "trust_score": 100,
+    "last_report": null
+  },
+  "media_sosial": {
+    "telegram": true,
+    "whatsapp": false,
+    "facebook": false
+  },
+  "waktu_analisis": "2024-12-27T10:13:55.281703"
+}

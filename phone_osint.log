@@ -1,0 +1,3 @@
+2024-12-27 10:00:48,772 - ERROR - Error getting location details: 'PhoneIntelligence' object has no attribute '_parse_location_data'
+2024-12-27 10:00:52,495 - ERROR - Error getting carrier info: HTTPSConnectionPool(host='mcc-mnc-list.com', port=443): Max retries exceeded with url: /list/62-898 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025E43CA3110>: Failed to resolve 'mcc-mnc-list.com' ([Errno 11002] getaddrinfo failed)"))
+2024-12-27 10:13:19,548 - ERROR - Error analyzing number +628988610455: 'PhoneIntelligence' object has no attribute '_aggregate_reputation_results'
