@@ -69,7 +69,7 @@ pip install -r requirements.txt
 │ Format Internasional │ +62 898-8610-455 │
 │ Format Nasional      │ 0898-8610-455    │
 │ Format E164          │ +628988610455    │
-│ Kode Negara          │ +62              │
+│ Kode Negara          │ +62              │       Nomor Telp saya
 │ Nomor Nasional       │ 8988610455       │
 │ Tipe                 │ 1                │
 │ Valid                │ True             │
